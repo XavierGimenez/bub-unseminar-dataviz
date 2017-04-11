@@ -39,6 +39,6 @@ http://www.simonscarr.com/iraqs-bloody-toll/
 http://www.businessinsider.com/gun-deaths-in-florida-increased-with-stand-your-ground-2014-2
 
 
-##### Towards Explorable Explanations
+### Towards Explorable Explanations
 ---
 http://worrydream.com/#!/ExplorableExplanations, Bret Victor
